@@ -1,0 +1,48 @@
+#head
+{
+    text-align: center;
+}
+#box
+{
+    width: 600px;
+    height: 400px;
+    margin: auto;
+    background-color: aqua
+}
+#heading
+{
+padding-top: 100px;
+padding-left: 261px;
+}
+#screen
+{
+    width: 314px;
+    height: 75px;
+    font-size: 54px;
+    color: red;
+    margin-left: 145px;
+    margin-top: 25px;
+}
+
+
+#reset-btn
+{
+
+    width: 200px;
+    height: 49px;
+    background-color: #b73c08;
+    font-size: 20px;
+    color: white;
+    border: 1px solid;
+    border-radius: 11px;
+}
+#btn
+{
+    margin-left: 536px;
+    margin-top: -10px;
+    width: 200px;
+    height: 49px;
+    border: 1px solid;
+    border-radius: 11px;
+
+}
